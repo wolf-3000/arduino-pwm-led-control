@@ -1,6 +1,6 @@
 # Arduino PWM LED Brightness Control
 
-This project uses a potentiometer to control LED brightness using PWM on an Arduino Uno.
+This project uses a potentiometer to control LED brightness using PWM on an Arduino Nano.
 
 ## Features
 - Analog input reading
@@ -10,7 +10,7 @@ This project uses a potentiometer to control LED brightness using PWM on an Ardu
 - Serial monitoring for debugging
 
 ## Components Used
-- Arduino Uno
+- Arduino Nano
 - Potentiometer
 - LED
 - 220Ω resistor
