@@ -23,10 +23,9 @@ void loop() {
   analogWrite(led1,brightness);
   Serial.print("Pot: ");
   Serial.print(potValue);
-  Serial.print("brightness: ");
+  Serial.print("  brightness: ");
   Serial.print(brightness);
 
   delay(100);
-
 
 }
